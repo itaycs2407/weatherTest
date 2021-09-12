@@ -38,6 +38,7 @@ const App = () => {
     <div>
       <HeaderContainer>
         <h1>The Weather App</h1>
+        <button>Test Button</button>
       </HeaderContainer>
       <MainContainer>
         <DaysContainer>
